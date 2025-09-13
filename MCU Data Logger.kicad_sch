@@ -3890,12 +3890,12 @@
 		(uuid "c1c1116b-62e3-4a0a-9d3d-495b285a4f5b")
 	)
 	(label "SCK"
-		(at 74.93 166.37 180)
+		(at 74.93 166.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "c5d69112-3500-4535-ae33-521fc173bf38")
 	)
