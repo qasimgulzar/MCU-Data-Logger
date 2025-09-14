@@ -2,3 +2,4 @@
 fp-info-cache
 .DS_Store
 *-backups/*
+export/*
